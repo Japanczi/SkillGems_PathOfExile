@@ -73,7 +73,7 @@ public static string _url = "https://www.poewiki.net/wiki/List_of_skill_gems";
 
             }
             gemName = null;
-            levelReq = 0;
+            levelReq = 1;
             
         }
 
